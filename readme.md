@@ -13,4 +13,4 @@ This Power BI dashboard analyzes:
 - Excel
 - DAX
 
-## Dashboard Preview
+## Dashboard Preview![alt text](<Screenshot 2026-05-16 155846.png>)
